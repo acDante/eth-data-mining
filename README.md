@@ -9,4 +9,4 @@ In this project we perform classification of videos. The weight vector used for 
 In this project we perform clustering of images. We construct coresets of the dataset in perallel using MapReduce and perform k-means with multiple restarts on the union of the coresets.
 
 ## Task 4: Multi-armed bandits
-In this projext we learn to recommend news articles to users by implementing the LinUCB algorithm.
+In this project we learn to recommend news articles to users by implementing the LinUCB algorithm.
